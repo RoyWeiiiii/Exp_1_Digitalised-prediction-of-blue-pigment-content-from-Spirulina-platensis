@@ -1,5 +1,5 @@
-
-![024ae6abe733f6a13c321aa4ad4e01cc](https://github.com/user-attachments/assets/2cab7054-2d0e-420f-8156-caf5d24f71a5)
+# Graphical Abstract
+![GA_Experiment_2](https://github.com/user-attachments/assets/b1b5a423-90f9-4705-8267-8a18a771108b)
 
 # Digitalised prediction of blue pigment content from Spirulina platensis: Next-generation microalgae bio-molecule detection
 
