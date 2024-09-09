@@ -22,7 +22,7 @@ The motive of this study is to predict the concentration of C-phycocyanin (CPC) 
 **Image_Cropping_Segmentation** => Image segmentation and cropping were conducted using Python code to separate the _Spirulina Platensis_ cells (region of interest) from the background (targeted colour to be excluded).
 
 # Cropped _Spirulina platensis_ image dataset
-
+The google drive [https://drive.google.com/drive/folders/1q8bRX0t3D5IxIPf4P2ypoUjEMuomL-KU?usp=drive_link] contains the cropped image dataset of _Spirulina platensis_ grown under 3 different culture mediums (BG-11, AF6, Zarrouk) in the period of 16 days. Each day contains 3 batches of images. The image dataset is publicly available for academic and research purposes.
 
 # Referencing and citation
 If you find the prediction and analysis of C-phycocyanin (CPC) concentration  useful in your research, please consider citing: Based on the DOI: https://doi.org/10.1016/j.algal.2024.103642
