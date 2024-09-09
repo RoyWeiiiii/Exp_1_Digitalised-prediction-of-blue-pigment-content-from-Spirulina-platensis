@@ -19,7 +19,10 @@ The motive of this study is to predict the concentration of C-phycocyanin (CPC) 
 
 **Experiment_2_Tabulated_Data** => Contains all the results tabulated in excel format
 
-**Image_Cropping_Segmentation** => Image segmentation and cropping were conducted using Python code to separate the _Spirulina Platensis_ cells (region of interest) from the background (targeted colour to be excluded). 
+**Image_Cropping_Segmentation** => Image segmentation and cropping were conducted using Python code to separate the _Spirulina Platensis_ cells (region of interest) from the background (targeted colour to be excluded).
+
+# Cropped _Spirulina platensis_ image dataset
+
 
 # Referencing and citation
 If you find the prediction and analysis of C-phycocyanin (CPC) concentration  useful in your research, please consider citing: Based on the DOI: https://doi.org/10.1016/j.algal.2024.103642
