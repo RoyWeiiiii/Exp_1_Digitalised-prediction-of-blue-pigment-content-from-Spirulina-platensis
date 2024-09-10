@@ -1,7 +1,7 @@
 # Graphical Abstract
 ![GA_Experiment_2](https://github.com/user-attachments/assets/b1b5a423-90f9-4705-8267-8a18a771108b)
 
-# Digitalised prediction of blue pigment content from Spirulina platensis: Next-generation microalgae bio-molecule detection
+# Digitalised prediction of blue pigment content from _Spirulina platensis_: Next-generation microalgae bio-molecule detection
 
 By **Jun Wei Roy Chong**, Kuan Shiong Khoo, Kit Wayne Chew, Huong-Yong Ting, Iwamoto Koji, Pau Loke Show
 
